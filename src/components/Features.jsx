@@ -137,6 +137,7 @@ const Features = () => (
             description="Install Desktop Setup to get going."
             isComingSoon
           />
+
         </BentoTilt>
 
         <BentoTilt className="bento-tilt_1 row-span-1 ms-32 md:col-span-1 md:ms-0">
@@ -185,6 +186,17 @@ const Features = () => (
           />
         </BentoTilt>
       </div>
+      <br />
+      <center className="mt-10">
+      <a
+              href="https://github.com/RG1114/VisioLink"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="mt-4 bg-blue-600 hover:bg-blue-700 text-white py-2 px-4 rounded w-screen text-center"
+            >
+              Download Desktop App
+            </a>
+            </center>
     </div>
   </section>
 );

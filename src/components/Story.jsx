@@ -125,6 +125,7 @@ const FloatingImage = () => {
               Download mazeVR APK
             </a>
           </div>
+          
         </div>
 
         {/* Optional description & button below the image */}
